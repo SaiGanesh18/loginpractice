@@ -1,0 +1,23 @@
+body{
+    background-color:  #7d2ae8;
+    text-align: center;
+}
+
+#results{
+    font-size: 30px;
+    margin-top: 13%;
+    background-color: white;
+    display:inline-block;
+    text-align: left;
+    font-family: sans-serif;
+    border: 2px solid white;
+    border-radius: 25px;
+    padding: 40px;
+}
+
+a{
+    margin-top: 20%;
+    font-size: 25px;
+    color:yellow;
+    font-family: sans-serif;
+}

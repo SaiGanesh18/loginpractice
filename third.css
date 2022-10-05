@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: #7d2ae8;
+}
+input{
+    border: 2px solid red;
+    border-radius: 4px;
+    height:20px;
+  }
+form{
+    font-size: 25px;
+    font-family: sans-serif;
+    margin-top: 10%;
+    background-color: white;
+    display:inline-block;
+    text-align: left;
+    
+    border: 2px solid white;
+    border-radius: 25px;
+    padding: 40px;
+    
+}
